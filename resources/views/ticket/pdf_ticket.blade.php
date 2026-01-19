@@ -150,7 +150,7 @@
             <div class="brand-logo">
                 <img src="{{ asset('/icon.jpg') }}" alt="Logo Car Wash">
             </div>
-            <div class="brand">Car Wash C21</div>
+            <div class="brand">Car Wash</div>
             <div class="subtitle">¡Tu auto limpio, tu día feliz!</div>
             <div class="info" style="font-weight:bold;">No Responsable del IVA</div>
             <div class="factura">FACTURA DE VENTA No. {{ $venta->id }}</div>
@@ -204,7 +204,7 @@
         </table>
         <div class="thanks">¡GRACIAS POR TU PREFERENCIA!</div>
         <div class="footer">
-            <div>¡Vuelve pronto! <span class="highlight">Car Wash C21</span></div>            
+            <div>¡Vuelve pronto! <span class="highlight">Car Wash</span></div>            
         </div>
         
     </div>

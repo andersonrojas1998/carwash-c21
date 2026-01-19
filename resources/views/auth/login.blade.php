@@ -15,7 +15,7 @@
         </div>            
         <div class="col-lg-12">
         <figcaption class="blockquote-footer text-center">
-        C21  CAR WASH</cite>
+        CAR WASH</cite>
         </figcaption>        
         </div>
         </div>        
@@ -74,7 +74,7 @@
           <a href="#">Terms</a>
         </li>
       </ul>
-      <p class="footer-text text-center">copyright © 2023 C21 Car Wash.</p>
+      <p class="footer-text text-center">copyright ©  Car Wash.</p>
     </div>
   </div>
 </div>

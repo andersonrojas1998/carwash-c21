@@ -6,7 +6,7 @@
     <a class="navbar-brand brand-logo-mini" href="{{ url('/') }}">
       <img src="{{ url('assets/images/logo-mini.svg') }}" alt="logo" /> </a>
   </div>
-  <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end" style="background-color:#9eccbc">
+  <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end" style="background-color:#7f7f7f;">
     <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
       <span class="mdi mdi-menu"></span>
     </button>
